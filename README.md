@@ -116,8 +116,8 @@ atomlabs-lcac-framework/
 
 ## Real-World Implementation
 
-The LCAC framework is operational within the **Vanta Autonomous Intelligence System**, where it governs cognitive security across trading, governance, and decision-making agents.  
-Vanta serves as the first live environment demonstrating LCAC’s ability to enforce contextual boundaries, preserve reasoning integrity, and maintain verifiable trust metrics at runtime.
+The LCAC framework is operational within the **Vanta Capital Intelligence Operating System**, where it secures cognition across autonomous trading, governance, and decision-making agents.  
+Vanta implements LCAC as part of its **Cognitive Security Stack**, enabling bounded reasoning, cross-agent isolation, and verifiable trust telemetry in real-world conditions.
 
-To explore LCAC’s practical deployment and telemetry outputs in context, see:  
-[Vanta Project Repository](https://github.com/qstackfield/vanta) *(Autonomous Intelligence Stack with integrated LCAC governance layer)*
+For the full architecture, implementation details, and live documentation of LCAC in production, visit:  
+👉 [Vanta Capital Intelligence OS](https://qstackfield.github.io/vanta-capital-intelligence-os/)
