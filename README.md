@@ -123,5 +123,8 @@ For the full architecture, implementation details, and live documentation of LCA
 [Vanta Capital Intelligence OS](https://qstackfield.github.io/vanta-capital-intelligence-os/)
 
 
-## Citation
-Stackfield, Q. (2025). *LCAC: Extending Zero Trust into the Cognitive Layer - A Framework for Cognitive Security and Reasoning Isolation.* Zenodo. https://doi.org/10.5281/zenodo.17458835
+<meta name="citation_title" content="LCAC: Extending Zero Trust into the Cognitive Layer">
+<meta name="citation_author" content="Quinton Stackfield">
+<meta name="citation_publication_date" content="2025-10-27">
+<meta name="citation_doi" content="10.5281/zenodo.17458835">
+<meta name="citation_pdf_url" content="https://zenodo.org/record/17458835/files/lcac_framework.pdf">
