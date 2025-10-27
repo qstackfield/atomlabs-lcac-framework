@@ -121,3 +121,7 @@ Vanta implements LCAC as part of its **Cognitive Security Stack**, enabling boun
 
 For the full architecture, implementation details, and live documentation of LCAC in production, visit:  
 [Vanta Capital Intelligence OS](https://qstackfield.github.io/vanta-capital-intelligence-os/)
+
+
+## Citation
+Stackfield, Q. (2025). *LCAC: Extending Zero Trust into the Cognitive Layer -A Framework for Cognitive Security and Reasoning Isolation.* Zenodo. https://doi.org/10.xxxx/zenodo.xxxxxx
