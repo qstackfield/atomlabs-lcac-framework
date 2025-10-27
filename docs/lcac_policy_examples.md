@@ -1,6 +1,6 @@
 # LCAC Policy Examples
 
-## Example - Cognitive Boundary for Regulated AI
+## Example 1 - Cognitive Boundary for Regulated AI
 ```yaml
 lcac_policy:
   id: legal_reasoning_001
@@ -16,10 +16,12 @@ lcac_policy:
     - InternalPolicy.LAW-ETH-01
   actions:
     on_violation: ["halt_reasoning", "trigger_audit"]
+
 ```
+
 Example 2 - Financial Reasoning Containment Policy
 lcac_policy:
-```
+```yaml
   id: trading_reasoning_084
   context: "Equity Market Analysis"
   authorized_sources:
@@ -50,8 +52,9 @@ lcac_policy:
     on_context_drift: "invalidate_output"
     ```
 ```
+
 Example 3 - Cognitive Red Team Configuration
-```
+```yaml
     lcac_policy:
     lcac_policy:
   id: cognitive_redteam_sim
