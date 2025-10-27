@@ -29,7 +29,7 @@ Where Zero Trust governs identity and action, LCAC governs cognition and inferen
 ## Motivation
 
 As AI systems move from reactive models to autonomous reasoning agents, the attack surface has shifted.  
-Compromise no longer occurs only through identity or network intrusion, but through **contextual contamination** — where an agent carries or infers knowledge across domains in unintended ways.
+Compromise no longer occurs only through identity or network intrusion, but through **contextual contamination**. Where an agent carries or infers knowledge across domains in unintended ways.
 
 LCAC addresses this by enforcing **reasoning isolation**, ensuring every inference occurs within a bounded context of trust.
 
