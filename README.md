@@ -97,6 +97,7 @@ The next phase of research expands LCAC into the **Cognitive Security Stack**, i
 ---
 
 ## Repository Structure
+```
 atomlabs-lcac-framework/
 ├── README.md
 ├── LICENSE
@@ -106,8 +107,9 @@ atomlabs-lcac-framework/
 ├── lcac_policy_examples.md
 ├── lcac_use_cases.md
 └── lcac_metrics.md
+```
 ---
 
 ### Related Reading
 - [LinkedIn White Paper: From Zero Trust to Cognitive Trust](https://www.linkedin.com/posts/qstackfield_ai-cybersecurity-cognitivetrust-activity-7388341096390529025-jxPL)
-- [Medium Article: Beyond Zero Trust — Introducing LCAC](https://medium.com/@qstackfield/beyond-zero-trust-introducing-lcac-least-context-access-control-e36e07731039)
+- [Medium Article: Beyond Zero Trust - Introducing LCAC](https://medium.com/@qstackfield/beyond-zero-trust-introducing-lcac-least-context-access-control-e36e07731039)
