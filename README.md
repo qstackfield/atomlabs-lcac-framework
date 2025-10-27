@@ -6,6 +6,8 @@ Extending Zero Trust into the cognitive layer: A framework for securing what AI 
 **Organization:** Atom Labs  
 **License:** MIT  
 
+Purpose: To define a cognitive-layer security model that governs information flow, memory, and reasoning boundaries within autonomous AI systems.
+
 ---
 
 ## Overview
@@ -38,6 +40,36 @@ LCAC addresses this by enforcing **reasoning isolation**, ensuring every inferen
 ---
 
 ## Architecture Overview
-
 LCAC introduces a **Cognitive Control Plane** above traditional Model and Data Control Planes.  
 This layer mediates the flow of context, reasoning, and knowledge between AI agents, ensuring cognitive operations remain within authorized boundaries.
+
+**Control Layers:**
+- **Data Plane:** Manages storage, retrieval, and access to factual data.  
+- **Model Plane:** Manages algorithmic inference, policy, and functional execution.  
+- **Cognitive Plane (LCAC):** Governs reasoning, contextual recall, and information blending between agents.  
+
+Each reasoning event is treated as a bounded transaction. LCAC verifies cognitive integrity before and after inference, ensuring no cross-context contamination or reasoning drift occurs.
+
+## Specification Summary
+| Function | Description |
+|-----------|--------------|
+| **Scope Control** | Applies contextual access limits to memory and reasoning layers. |
+| **Inference Isolation** | Each reasoning chain executes within its own trust boundary. |
+| **Auditability** | All inference events are recorded with provenance and reasoning traceability. |
+| **Dynamic Revocation** | Reasoning sessions can be terminated or redacted when trust thresholds are exceeded. |
+| **Trust Metric** | Each agent maintains a Cognitive Trust Score based on reasoning alignment and policy adherence. |
+
+## Relationship to Other Models
+LCAC complements but does not replace Zero Trust.  
+While Zero Trust secures *action and access*, LCAC secures *knowledge and reasoning*.  
+
+It also extends naturally into:
+- **Cognitive Security:** Defining reasoning as a protected surface.
+- **AI Governance:** Providing auditable, runtime enforcement of ethical constraints.
+- **Agent Autonomy:** Enabling self-governing reasoning processes under verifiable constraints.
+
+## Future Work
+The next phase of research expands LCAC into the **Cognitive Security Stack**, integrating:
+- Policy-based reasoning isolation for distributed agent systems.
+- Reinforcement mechanisms for ethical runtime verification.
+- Secure multi-agent collaboration models governed by LCAC principles.
