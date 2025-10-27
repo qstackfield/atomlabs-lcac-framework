@@ -10,7 +10,7 @@ Extending Zero Trust into the cognitive layer: A framework for securing what AI 
 
 ## Overview
 Least-Context Access Control (LCAC) extends the principles of Zero Trust into the cognitive layer.  
-It is designed to secure reasoning itself—governing what an AI system can know, remember, or transfer across contexts.  
+It is designed to secure reasoning itself-governing what an AI system can know, remember, or transfer across contexts.  
 
 LCAC establishes the foundation for the emerging field of **Cognitive Security**, enabling controlled reasoning and bounded autonomy in self-governing AI systems.  
 Where Zero Trust governs identity and action, LCAC governs cognition and inference.
