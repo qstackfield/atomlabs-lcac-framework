@@ -19,7 +19,7 @@ lcac_policy:
 
 ```
 
-Example 2 - Financial Reasoning Containment Policy
+## Example 2 - Financial Reasoning Containment Policy
 lcac_policy:
 ```yaml
   id: trading_reasoning_084
@@ -53,7 +53,7 @@ lcac_policy:
     ```
 ```
 
-Example 3 - Cognitive Red Team Configuration
+## Example 3 - Cognitive Red Team Configuration
 ```yaml
     lcac_policy:
     lcac_policy:
