@@ -124,4 +124,4 @@ For the full architecture, implementation details, and live documentation of LCA
 
 
 ## Citation
-Stackfield, Q. (2025). *LCAC: Extending Zero Trust into the Cognitive Layer -A Framework for Cognitive Security and Reasoning Isolation.* Zenodo. https://doi.org/10.xxxx/zenodo.xxxxxx
+Stackfield, Q. (2025). *LCAC: Extending Zero Trust into the Cognitive Layer — A Framework for Cognitive Security and Reasoning Isolation.* Zenodo. https://doi.org/10.5281/zenodo.17458835
