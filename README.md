@@ -120,4 +120,4 @@ The LCAC framework is operational within the **Vanta Capital Intelligence Operat
 Vanta implements LCAC as part of its **Cognitive Security Stack**, enabling bounded reasoning, cross-agent isolation, and verifiable trust telemetry in real-world conditions.
 
 For the full architecture, implementation details, and live documentation of LCAC in production, visit:  
-👉 [Vanta Capital Intelligence OS](https://qstackfield.github.io/vanta-capital-intelligence-os/)
+[Vanta Capital Intelligence OS](https://qstackfield.github.io/vanta-capital-intelligence-os/)
