@@ -120,4 +120,4 @@ The LCAC framework is operational within the **Vanta Autonomous Intelligence Sys
 Vanta serves as the first live environment demonstrating LCAC’s ability to enforce contextual boundaries, preserve reasoning integrity, and maintain verifiable trust metrics at runtime.
 
 To explore LCAC’s practical deployment and telemetry outputs in context, see:  
-👉 [Vanta Project Repository](https://github.com/qstackfield/vanta) *(Autonomous Intelligence Stack with integrated LCAC governance layer)*
+[Vanta Project Repository](https://github.com/qstackfield/vanta) *(Autonomous Intelligence Stack with integrated LCAC governance layer)*
