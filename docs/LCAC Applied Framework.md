@@ -1,5 +1,4 @@
----
-title: "LCAC Applied Framework — Securing Cognition Across Autonomous Systems"
+title: "LCAC Applied Framework - Securing Cognition Across Autonomous Systems"
 author: "Quinton Stackfield"
 affiliation: "Atom Labs"
 version: "1.0"
