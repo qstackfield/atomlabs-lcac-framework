@@ -198,6 +198,6 @@ Where Zero Trust governs *access*, LCAC governs *awareness*.
 - Enable explainable, auditable thought processes  
 - Establish “Cognitive Trust” as a measurable control plane  
 
-📘 [Read the full Applied Framework](docs/LCAC%20Applied%20Framework.md)  
+📘 [Read the full Applied Framework] 
 🔖 DOI: [10.5281/zenodo.17458835](https://doi.org/10.5281/zenodo.17458835)  
 👤 Author: [Quinton Stackfield](https://orcid.org/0009-0002-7377-4165)
