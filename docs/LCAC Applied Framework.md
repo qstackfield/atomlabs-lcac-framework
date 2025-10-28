@@ -137,7 +137,7 @@ Generalized knowledge can propagate; individual reasoning logic cannot.
 
 ---
 
-## **7. Conclusion — Cognitive Security as a Discipline**
+## **7. Conclusion - Cognitive Security as a Discipline**
 
 Zero Trust redefined cybersecurity by removing implicit trust from networks.  
 LCAC removes implicit trust from **reasoning**.  
@@ -161,7 +161,7 @@ Next research phases will focus on the **Cognitive Security Stack**, including:
 
 ---
 
-## **Appendix A — LCAC Use Cases (At a Glance)**
+## **Appendix A - LCAC Use Cases (At a Glance)**
 
 1. **Secure Reasoning in AI Assistants** - Prevents cross-user cognitive leakage by isolating reasoning memory between sessions.  
 2. **Multi-Agent Coordination** - Ensures agents collaborate safely through verified cognitive boundaries.  
