@@ -185,3 +185,19 @@ Next research phases will focus on the **Cognitive Security Stack**, including:
 *Founder & Chief AI Architect, Atom Labs*  
 *Researcher in Cognitive Security and Autonomous Governance Systems*  
 *Contact:* qstackfield@gmail.com  
+
+# LCAC Framework - Least-Context Access Control
+**Extending Zero Trust into the Cognitive Layer**
+
+LCAC (Least-Context Access Control) introduces cognitive security, a framework that governs how AI systems reason, recall, and collaborate.  
+Where Zero Trust governs *access*, LCAC governs *awareness*.
+
+### Key Goals
+- Isolate reasoning memory between agents and users  
+- Prevent cognitive contamination across AI systems  
+- Enable explainable, auditable thought processes  
+- Establish “Cognitive Trust” as a measurable control plane  
+
+📘 [Read the full Applied Framework](docs/LCAC%20Applied%20Framework.md)  
+🔖 DOI: [10.5281/zenodo.17458835](https://doi.org/10.5281/zenodo.17458835)  
+👤 Author: [Quinton Stackfield](https://orcid.org/0009-0002-7377-4165)
